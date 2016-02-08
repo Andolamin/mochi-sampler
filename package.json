@@ -1,0 +1,14 @@
+{
+  "name": "sampler",
+  "assets": [],
+  "devAssets": [],
+  "styles": [
+    "src/styles/**/*.*"
+  ],
+  "main": "index.js",
+  "moduleDir": "src",
+  "libdir": "lib",
+  "paths": [
+    "lib"
+  ]
+}
